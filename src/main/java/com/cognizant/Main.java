@@ -7,6 +7,6 @@ public class Main {
 		System.out.println("hello");
 		Person person=new Person();
 		System.out.println("hello "+person.getName()+" welcome");
-		System.out.println("I am Kowsi");
+		System.out.println("I am Kowsi from Erode");
 	}
 }
